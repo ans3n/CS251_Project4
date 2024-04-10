@@ -7,7 +7,13 @@ int max_height::calculate(const graph& g) {
     //  in the case of the example, 30 is the smallest largest height due to the cycle BGF such that to reach G 30 is
     //  the largest smallest height
 
-    //use maximum spanning tree through Prim's algorithm
+    //construct a maximum spanning tree through Prim's algorithm and take the smallest value
 
+
+}
+
+void primMaximumSpanning(const graph& g, handle h) {
+
+    std::vector<handle> edgeTo(g.getVertices().size(), -1);
     
 }

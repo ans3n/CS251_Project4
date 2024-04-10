@@ -52,7 +52,7 @@ build cmake_object_order_depends_target_project4: phony || CMakeFiles/project4.d
 build CMakeFiles/project4.dir/src/color_walk.cpp.o: CXX_COMPILER__project4_unscanned_Debug /Users/ansen/Documents/Programming$ Projects/CS$ 251/CS251_Project4/src/color_walk.cpp || cmake_object_order_depends_target_project4
   DEFINES = -DNOMINMAX
   DEP_FILE = CMakeFiles/project4.dir/src/color_walk.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fPIC -fcolor-diagnostics
   INCLUDES = -I"/Users/ansen/Documents/Programming Projects/CS 251/CS251_Project4/cmake-build-debug" -I"/Users/ansen/Documents/Programming Projects/CS 251/CS251_Project4/include"
   OBJECT_DIR = CMakeFiles/project4.dir
   OBJECT_FILE_DIR = CMakeFiles/project4.dir/src
@@ -62,7 +62,7 @@ build CMakeFiles/project4.dir/src/color_walk.cpp.o: CXX_COMPILER__project4_unsca
 build CMakeFiles/project4.dir/src/graph.cpp.o: CXX_COMPILER__project4_unscanned_Debug /Users/ansen/Documents/Programming$ Projects/CS$ 251/CS251_Project4/src/graph.cpp || cmake_object_order_depends_target_project4
   DEFINES = -DNOMINMAX
   DEP_FILE = CMakeFiles/project4.dir/src/graph.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fPIC -fcolor-diagnostics
   INCLUDES = -I"/Users/ansen/Documents/Programming Projects/CS 251/CS251_Project4/cmake-build-debug" -I"/Users/ansen/Documents/Programming Projects/CS 251/CS251_Project4/include"
   OBJECT_DIR = CMakeFiles/project4.dir
   OBJECT_FILE_DIR = CMakeFiles/project4.dir/src
@@ -72,7 +72,7 @@ build CMakeFiles/project4.dir/src/graph.cpp.o: CXX_COMPILER__project4_unscanned_
 build CMakeFiles/project4.dir/src/graph_app.cpp.o: CXX_COMPILER__project4_unscanned_Debug /Users/ansen/Documents/Programming$ Projects/CS$ 251/CS251_Project4/src/graph_app.cpp || cmake_object_order_depends_target_project4
   DEFINES = -DNOMINMAX
   DEP_FILE = CMakeFiles/project4.dir/src/graph_app.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fPIC -fcolor-diagnostics
   INCLUDES = -I"/Users/ansen/Documents/Programming Projects/CS 251/CS251_Project4/cmake-build-debug" -I"/Users/ansen/Documents/Programming Projects/CS 251/CS251_Project4/include"
   OBJECT_DIR = CMakeFiles/project4.dir
   OBJECT_FILE_DIR = CMakeFiles/project4.dir/src
@@ -82,7 +82,7 @@ build CMakeFiles/project4.dir/src/graph_app.cpp.o: CXX_COMPILER__project4_unscan
 build CMakeFiles/project4.dir/src/max_height.cpp.o: CXX_COMPILER__project4_unscanned_Debug /Users/ansen/Documents/Programming$ Projects/CS$ 251/CS251_Project4/src/max_height.cpp || cmake_object_order_depends_target_project4
   DEFINES = -DNOMINMAX
   DEP_FILE = CMakeFiles/project4.dir/src/max_height.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fPIC -fcolor-diagnostics
   INCLUDES = -I"/Users/ansen/Documents/Programming Projects/CS 251/CS251_Project4/cmake-build-debug" -I"/Users/ansen/Documents/Programming Projects/CS 251/CS251_Project4/include"
   OBJECT_DIR = CMakeFiles/project4.dir
   OBJECT_FILE_DIR = CMakeFiles/project4.dir/src
@@ -92,7 +92,7 @@ build CMakeFiles/project4.dir/src/max_height.cpp.o: CXX_COMPILER__project4_unsca
 build CMakeFiles/project4.dir/src/scc.cpp.o: CXX_COMPILER__project4_unscanned_Debug /Users/ansen/Documents/Programming$ Projects/CS$ 251/CS251_Project4/src/scc.cpp || cmake_object_order_depends_target_project4
   DEFINES = -DNOMINMAX
   DEP_FILE = CMakeFiles/project4.dir/src/scc.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fPIC -fcolor-diagnostics
   INCLUDES = -I"/Users/ansen/Documents/Programming Projects/CS 251/CS251_Project4/cmake-build-debug" -I"/Users/ansen/Documents/Programming Projects/CS 251/CS251_Project4/include"
   OBJECT_DIR = CMakeFiles/project4.dir
   OBJECT_FILE_DIR = CMakeFiles/project4.dir/src
@@ -108,7 +108,7 @@ build CMakeFiles/project4.dir/src/scc.cpp.o: CXX_COMPILER__project4_unscanned_De
 # Link the static library libproject4.a
 
 build libproject4.a: CXX_STATIC_LIBRARY_LINKER__project4_Debug CMakeFiles/project4.dir/src/color_walk.cpp.o CMakeFiles/project4.dir/src/graph.cpp.o CMakeFiles/project4.dir/src/graph_app.cpp.o CMakeFiles/project4.dir/src/max_height.cpp.o CMakeFiles/project4.dir/src/scc.cpp.o
-  ARCH_FLAGS = -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  ARCH_FLAGS = -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
   LANGUAGE_COMPILE_FLAGS = -g
   OBJECT_DIR = CMakeFiles/project4.dir
   POST_BUILD = :
@@ -129,7 +129,7 @@ build cmake_object_order_depends_target_graph_app: phony || cmake_object_order_d
 build CMakeFiles/graph_app.dir/src/graph_app.cpp.o: CXX_COMPILER__graph_app_unscanned_Debug /Users/ansen/Documents/Programming$ Projects/CS$ 251/CS251_Project4/src/graph_app.cpp || cmake_object_order_depends_target_graph_app
   DEFINES = -DNOMINMAX
   DEP_FILE = CMakeFiles/graph_app.dir/src/graph_app.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIE -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fPIE -fcolor-diagnostics
   INCLUDES = -I"/Users/ansen/Documents/Programming Projects/CS 251/CS251_Project4/cmake-build-debug" -I"/Users/ansen/Documents/Programming Projects/CS 251/CS251_Project4/include"
   OBJECT_DIR = CMakeFiles/graph_app.dir
   OBJECT_FILE_DIR = CMakeFiles/graph_app.dir/src
@@ -145,7 +145,7 @@ build CMakeFiles/graph_app.dir/src/graph_app.cpp.o: CXX_COMPILER__graph_app_unsc
 # Link the executable graph_app
 
 build graph_app: CXX_EXECUTABLE_LINKER__graph_app_Debug CMakeFiles/graph_app.dir/src/graph_app.cpp.o | libproject4.a || libproject4.a
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
   LINK_LIBRARIES = libproject4.a
   OBJECT_DIR = CMakeFiles/graph_app.dir
   POST_BUILD = :

@@ -31,5 +31,9 @@ namespace cs251
 	public:
 		void read_edge_weights(const std::string& filePath);
 		void read_edge_colors(const std::string& filePath);
+
+        const std::vector<graph_vertex>& getVertices() const {
+            return m_vertices;
+        }
 	};
 }
