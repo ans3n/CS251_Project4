@@ -18,12 +18,16 @@ void graph::read_edge_weights(const std::string& filePath) {
     file >> numVertices >> numEdges;    //reads the first two integers and stores
     m_vertices.resize(numVertices);
 
+    for (int i = 0; i < numVertices; i++) {
+        m_vertices.push_back({ {}, i});
+    }
+
     //use num edges in case of directed
-    for (int i = 0; i < numEdges; i++) {
+    for (int j = 0; j < numEdges; j++) {
         file >> source >> destination >> weight;
         file.ignore();  //ignore new line
 
-        m_vertices[source].m_edges.push_back({weight, source, destination});    //check if source needed
+        m_vertices[source].m_edges.push_back({weight, source, destination, NONE});    //check if source needed
     }
 
     file.close();
@@ -44,6 +48,10 @@ void graph::read_edge_colors(const std::string& filePath) {
 
     file >> numVertices >> numEdges;    //reads the first two integers and stores
     m_vertices.resize(numVertices);
+
+    for (int i = 0; i < numVertices; i++) {
+        m_vertices.push_back({ {}, i});
+    }
 
     //use num edges in case of directed
     for (int i = 0; i < numEdges; i++) {
