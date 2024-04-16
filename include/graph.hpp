@@ -15,6 +15,7 @@ namespace cs251
 	struct graph_edge
 	{
 		int m_weight = -1;
+        handle m_sourceHandle = -1;                                                                      //check if necessary
 		handle m_destinationHandle = -1;
 		color col;
 	};

@@ -23,7 +23,7 @@ void graph::read_edge_weights(const std::string& filePath) {
         file >> source >> destination >> weight;
         file.ignore();  //ignore new line
 
-        m_vertices[source].m_edges.push_back({weight, destination});    //only do one direction
+        m_vertices[source].m_edges.push_back({weight, source, destination});    //check if source needed
     }
 
     file.close();
@@ -61,7 +61,7 @@ void graph::read_edge_colors(const std::string& filePath) {
             col = NONE;
         }
 
-        m_vertices[source].m_edges.push_back({weight, destination, col});    //only do one direction
+        m_vertices[source].m_edges.push_back({weight, source, destination, col});   //check if source needed
     }
 
     file.close();
