@@ -2,17 +2,6 @@
 
 using namespace cs251;
 
-
-
-int max_height::calculate(const graph& g) {
-	//essentially want to get the smallest largest height - supremum of heights that can go from any city to another
-    //  in the case of the example, 30 is the smallest largest height due to the cycle BGF such that to reach G 30 is
-    //  the largest smallest height
-
-
-
-}
-
 class UnionFind {
     int count = 0;  //able to set to n here?
     std::vector<handle> id;       //check of what type
@@ -66,27 +55,35 @@ public:
 class MaxHeap {
     std::vector<graph_edge> heap;
 
-    void heapifyUp(int index) {
-        while (index > 0 && heap[index].m_weight > heap[(index - 1) / 2].m_weight) {
-            std::swap(heap[index], heap[(index - 1) / 2]);
-            index = (index - 1) / 2;
+    void heapifyUp(int current) {
+        while (current > 0) {
+            int parent = (current - 1) / 2;
+            if (heap[current].m_weight > heap[parent].m_weight) {
+                //maxheap: swap if the current node has a larger value than its parent
+                std::swap(heap[current], heap[parent]);
+                current = parent;
+            } else {
+                // already in position
+                break;
+            }
         }
     }
 
-    void heapifyDown(int index) {
-        int left = 2 * index + 1;
-        int right = 2 * index + 2;
-        int largest = index;
+    void heapifyDown(int current) {
+        int largestIndex = current;
+        int leftIndex = 2 * current + 1;
+        int rightIndex = 2 * current + 2;
 
-        if (left < heap.size() && heap[left].m_weight > heap[largest].m_weight) {
-            largest = left;
+
+        if (leftIndex < heap.size() && heap[leftIndex].m_weight > heap[largestIndex].m_weight) {
+            largestIndex = leftIndex;
         }
-        if (right < heap.size() && heap[right].m_weight > heap[largest].m_weight) {
-            largest = right;
+        if (rightIndex < heap.size() && heap[rightIndex].m_weight > heap[largestIndex].m_weight) {
+            largestIndex = rightIndex;
         }
-        if (largest != index) {
-            std::swap(heap[index], heap[largest]);
-            heapifyDown(largest);
+        if (largestIndex != current) {
+            std::swap(heap[current], heap[largestIndex]);
+            heapifyDown(largestIndex);
         }
     }
 
@@ -107,18 +104,21 @@ public:
 };
 
 //determine whether better to pass around vertex handles or vertex itself
-std::vector<graph_edge> kruskal(const std::vector<graph_edge>& edges, int V) {                      //v is the number of vertices
+std::vector<graph_edge> kruskal(const graph& g) {
     MaxHeap Q;
-    UnionFind UF(V);
+    UnionFind UF(g.getVertices().size());
+    int vertices = 0;
 
-
-    for (const auto& edge : edges) {
-        Q.insert(edge);
+    for (auto& vertex : g.getVertices()) {
+        for (const auto& edge : vertex.m_edges) {
+            Q.insert(edge);
+        }
+        vertices++;
     }
 
     std::vector<graph_edge> T;
 
-    while (T.size() < V - 1) {
+    while (T.size() < vertices - 1) {
         graph_edge maxEdge = Q.getMax();
         handle u = maxEdge.m_sourceHandle;
         handle v = maxEdge.m_destinationHandle;
@@ -129,6 +129,18 @@ std::vector<graph_edge> kruskal(const std::vector<graph_edge>& edges, int V) {  
         }
     }
     return T;
+}
+
+int max_height::calculate(const graph& g) {
+    std::vector<graph_edge> maxSpanning = kruskal(g);
+    graph_edge smallest = maxSpanning[0];
+
+    for (auto& edge : maxSpanning) {
+        if (edge.m_weight < smallest.m_weight) {
+            smallest = edge;
+        }
+    }
+    return smallest.m_weight;
 }
 
 
