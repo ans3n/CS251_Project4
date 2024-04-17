@@ -1,4 +1,6 @@
 #include <iostream>
+#include <fstream>
+#include <string>
 #include "graph.hpp"
 
 using namespace cs251;
@@ -26,10 +28,8 @@ void graph::read_edge_weights(const std::string& filePath) {
     for (int j = 0; j < numEdges; j++) {
         file >> source >> destination >> weight;
         file.ignore();  //ignore new line
-
         m_vertices[source].m_edges.push_back({weight, source, destination, NONE});    //check if source needed
     }
-
     file.close();
 }
 
@@ -71,6 +71,5 @@ void graph::read_edge_colors(const std::string& filePath) {
 
         m_vertices[source].m_edges.push_back({weight, source, destination, col});   //check if source needed
     }
-
     file.close();
 }
