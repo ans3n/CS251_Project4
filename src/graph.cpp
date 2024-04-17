@@ -6,7 +6,7 @@
 using namespace cs251;
 
 void graph::read_edge_weights(const std::string& filePath) {
-    std::ifstream file(filePath);                                               //check if ifstream is used or something else
+    std::ifstream file(filePath);
     if (!file.is_open()) {
         return;
     }
@@ -17,7 +17,7 @@ void graph::read_edge_weights(const std::string& filePath) {
     int destination = 0;
     int weight = 0;
 
-    file >> numVertices >> numEdges;    //reads the first two integers and stores
+    file >> numVertices >> numEdges;
     m_vertices.resize(numVertices);
 
     for (int i = 0; i < numVertices; i++) {
@@ -28,13 +28,14 @@ void graph::read_edge_weights(const std::string& filePath) {
     for (int j = 0; j < numEdges; j++) {
         file >> source >> destination >> weight;
         file.ignore();  //ignore new line
-        m_vertices[source].m_edges.push_back({weight, source, destination, NONE});    //check if source needed
+        m_vertices[source].m_edges.push_back({weight, source, destination, NONE});
     }
+
     file.close();
 }
 
 void graph::read_edge_colors(const std::string& filePath) {
-    std::ifstream file(filePath);                                               //check if ifstream is used or something else
+    std::ifstream file(filePath);
     if (!file.is_open()) {
         return;
     }
@@ -69,7 +70,28 @@ void graph::read_edge_colors(const std::string& filePath) {
             col = NONE;
         }
 
-        m_vertices[source].m_edges.push_back({weight, source, destination, col});   //check if source needed
+        m_vertices[source].m_edges.push_back({weight, source, destination, col});
     }
+
+    /*
+    printf("%d %d\n", numVertices, numEdges);
+    for (int i = 0; i < numVertices; i++) {
+        for (int j = 0; j < m_vertices[i].m_edges.size(); j++) {
+            enum color col = m_vertices[i].m_edges[j].col;
+            char c;
+
+            if (col == RED) {
+                c = 'R';
+            } else if (col == BLUE) {
+                c = 'B';
+            } else if (col == GREEN) {
+                c = 'G';
+            } else {
+                c = '-';
+            }
+            printf("%d %d %d %c\n", i, m_vertices[i].m_edges[j].m_destinationHandle, m_vertices[i].m_edges[j].m_weight, c);
+        }
+    }
+     */
     file.close();
 }

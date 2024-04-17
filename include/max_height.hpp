@@ -10,7 +10,7 @@ namespace cs251 {
     };
 
     class MaxHeap {
-        std::vector<graph_edge> heap;
+        std::vector<graph_edge> heap{};
 
     public:
         void heapifyUp(int current) {
@@ -58,16 +58,28 @@ namespace cs251 {
         }
 
         graph_edge getMax() {
-            graph_edge maxEdge = heap.front(); //check whether front or back
-            heap[0] = heap.back();
+            /*for (int i = 0; i < heap.size(); i++) {
+                printf("%d %d %d\n", heap[i].m_sourceHandle, heap[i].m_destinationHandle, heap[i].m_weight);
+            }*/
+            /*if (heap.empty()) {
+                // Handle case where heap is empty
+                throw std::runtime_error("Heap is empty");
+            }*/
+
+            graph_edge maxEdge = heap.at(0); //check whether front or back
+            heap[0] = heap[heap.size() - 1];
             heap.pop_back();
             heapifyDown(0);
             return maxEdge;
         }
+
+        bool is_empty() {
+            return !heap.size();
+        }
     };
 
     class UnionFind {
-        std::vector<handle> id;
+        std::vector<handle> id{};
 
     public:
         UnionFind(int numVertices) {

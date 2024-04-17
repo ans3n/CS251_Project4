@@ -20,8 +20,6 @@ void usage(std::string name) {
 }
 
 int main(int argc, char** argv) {
-    std::cout << "Hello World!";
-
 	try {
 
 	if (argc < 3 || argc > 4) {
