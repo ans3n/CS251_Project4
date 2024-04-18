@@ -30,12 +30,41 @@ namespace cs251
     class graph
     {
         std::vector<graph_vertex> m_vertices;
+        int numVertices = 0;
+        int numEdges = 0;
     public:
         void read_edge_weights(const std::string& filePath);
         void read_edge_colors(const std::string& filePath);
 
+        int getNumVertices() {
+            return numVertices;
+        }
+
+        int getNumEdges() {
+            return numEdges;
+        }
+
+        void setNumVertices(int count) {
+            numVertices = count;
+        }
+
+        void setNumEdges(int count) {
+            numEdges = count;
+        }
+
+        void initializeAdjacencyList() {
+            m_vertices.resize(numVertices);
+            for (int i = 0; i < numVertices; i++) {
+                m_vertices.push_back({ {}, i});
+            }
+        }
+
         std::vector<graph_vertex> getVertices() {
             return m_vertices;
+        }
+
+        void push(graph_edge edge, int colorCount) {
+            m_vertices[edge.m_sourceHandle * 3 + colorCount].m_edges.push_back({edge.m_weight, edge.m_sourceHandle, edge.m_destinationHandle, edge.col});
         }
     };
 }

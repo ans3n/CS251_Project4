@@ -19,6 +19,8 @@ void graph::read_edge_weights(const std::string& filePath) {
 
     file >> numVertices >> numEdges;
     m_vertices.resize(numVertices);
+    setNumEdges(numEdges);
+    setNumVertices(numVertices);
 
     for (int i = 0; i < numVertices; i++) {
         m_vertices.push_back({ {}, i});
@@ -49,6 +51,8 @@ void graph::read_edge_colors(const std::string& filePath) {
 
     file >> numVertices >> numEdges;    //reads the first two integers and stores
     m_vertices.resize(numVertices);
+    setNumEdges(numEdges);
+    setNumVertices(numVertices);
 
     for (int i = 0; i < numVertices; i++) {
         m_vertices.push_back({ {}, i});

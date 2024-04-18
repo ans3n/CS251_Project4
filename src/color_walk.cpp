@@ -2,17 +2,7 @@
 
 using namespace cs251;
 
-std::vector<std::pair<char, int>> color_walk::calculate(graph& g, const handle startHandle) {
-    std::vector<std::pair<char, int>> output;
-    graph coloredGraph;
-
-	for (auto vertex : g.getVertices()) {
-        for (auto edge : vertex.m_edges) {
-            //insert every vertices each colored edge in the colored graph?
-        }
-    }
-
-    //building dijkstra's
+std::vector<int> color_walk::dijkstras(graph& g, const handle startHandle) {
     std::vector<int> dist {};
     std::vector<handle> prev {};
     MinHeap heap;
@@ -40,6 +30,35 @@ std::vector<std::pair<char, int>> color_walk::calculate(graph& g, const handle s
             }
         }
     }
+
+    return dist;
+}
+
+std::vector<std::pair<char, int>> color_walk::calculate(graph& g, const handle startHandle) {
+    graph coloredGraph;
+    coloredGraph.setNumVertices(g.getNumEdges());   //assuming all directed graphs
+    coloredGraph.initializeAdjacencyList(); //check if needed
+
+    for (auto vertex : g.getVertices()) {
+        int colorCount = 0;
+        for (auto edge : vertex.m_edges) {
+            if (edge.col != NONE) {
+                coloredGraph.push(edge, colorCount);
+                colorCount++;
+            }
+        }
+    }
+
+    std::vector<std::pair<char, int>> output;
+    std::vector<int> redDistance = dijkstras(coloredGraph, startHandle * 3);
+    std::vector<int> greenDistance = dijkstras(coloredGraph, startHandle * 3 + 1);
+    std::vector<int> blueDistance = dijkstras(coloredGraph, startHandle * 3 + 2);
+
+    std::pair<char, int> smallestRed;
+    std::pair<char, int> smallestGreen;
+    std::pair<char, int> smallestBlue;
+    std::pair<char, int> smallest;
+    output[startHandle] = std::make_pair('-', 0);
 
     return output;
 }

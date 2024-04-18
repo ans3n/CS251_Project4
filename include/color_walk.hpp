@@ -6,7 +6,9 @@ namespace cs251 {
 
     class color_walk {
     public:
-        static std::vector<std::pair<char, int>> calculate(graph& g, handle startHandle);
+        std::vector<std::pair<char, int>> calculate(graph& g, handle startHandle);  //static
+        std::vector<int> dijkstras(graph& g, const handle startHandle);
+        graph splitColors(graph &g);
     };
 
     class MinHeap {
@@ -54,7 +56,7 @@ namespace cs251 {
 
         void insert(graph_vertex& vertex) {
             heap.push_back(vertex);
-            heapifyDown(heap.size() - 1);   //changed to reverse
+            heapifyUp(heap.size() - 1);   //still?
         }
 
         graph_vertex getMin() {
@@ -69,7 +71,7 @@ namespace cs251 {
             graph_vertex minDistance = heap.at(0); //to change?
             heap[0] = heap[heap.size() - 1];
             heap.pop_back();
-            heapifyUp(0);   //changed to reverse
+            heapifyDown(0);   //change to reverse?
             return minDistance;
         }
 
