@@ -19,8 +19,8 @@ namespace cs251 {
         void heapifyUp(int current) {
             while (current > 0) {
                 int parent = (current - 1) / 2;
-                if (heap[current].m_distance > heap[parent].m_distance) {
-                    //maxheap: swap if the current node has a larger value than its parent
+                if (heap[current].m_distance < heap[parent].m_distance) {
+                    //minheap: swap if the current node has a smaller value than its parent
                     std::swap(heap[current], heap[parent]);
                     current = parent;
                 } else {
@@ -34,20 +34,19 @@ namespace cs251 {
             bool sorted = false;
 
             while (!sorted) {
-                int largestIndex = current;
+                int smallestIndex = current;
                 int leftIndex = 2 * current + 1;
                 int rightIndex = 2 * current + 2;
 
-
-                if (leftIndex < heap.size() && heap[leftIndex].m_distance > heap[largestIndex].m_distance) {
-                    largestIndex = leftIndex;
+                if (leftIndex < heap.size() && heap[leftIndex].m_distance < heap[smallestIndex].m_distance) {    //changed to <
+                    smallestIndex = leftIndex;
                 }
-                if (rightIndex < heap.size() && heap[rightIndex].m_distance > heap[largestIndex].m_distance) {
-                    largestIndex = rightIndex;
+                if (rightIndex < heap.size() && heap[rightIndex].m_distance < heap[smallestIndex].m_distance) {  //changed to <
+                    smallestIndex = rightIndex;
                 }
-                if (largestIndex != current) {
-                    std::swap(heap[current], heap[largestIndex]);
-                    current = largestIndex;
+                if (smallestIndex != current) {
+                    std::swap(heap[current], heap[smallestIndex]);
+                    current = smallestIndex;
                     sorted = false;
                 } else {
                     sorted = true;
