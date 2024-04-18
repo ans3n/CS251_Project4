@@ -6,10 +6,10 @@ namespace cs251 {
 
     class color_walk {
     public:
-        std::vector<std::pair<char, int>> calculate(graph& g, handle startHandle);  //static
-        std::vector<int> dijkstras(graph& g, const handle startHandle);
+        static std::vector<std::pair<char, int>> calculate(graph& g, handle startHandle);  //static
+        static std::vector<int> dijkstras(graph& g, const handle startHandle);
         graph splitColors(graph &g);
-        std::pair<char, int> shortestWalk(int red, int green, int blue);
+        static std::pair<char, int> shortestWalk(int red, int green, int blue);
     };
 
     class MinHeap {

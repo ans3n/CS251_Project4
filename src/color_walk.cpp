@@ -1,4 +1,8 @@
 #include "color_walk.hpp"
+#include <iostream>
+#include <fstream>
+#include <vector>
+#include <climits>
 
 using namespace cs251;
 
