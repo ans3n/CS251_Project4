@@ -24,7 +24,7 @@ namespace cs251
     {
         std::vector<graph_edge> m_edges{};
         handle m_handle = -1;
-        int m_distance = 0;   //added for part 2
+        int m_distance = -1;   //added for part 2
     };
 
     class graph

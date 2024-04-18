@@ -9,6 +9,7 @@ namespace cs251 {
         std::vector<std::pair<char, int>> calculate(graph& g, handle startHandle);  //static
         std::vector<int> dijkstras(graph& g, const handle startHandle);
         graph splitColors(graph &g);
+        std::pair<char, int> shortestWalk(int red, int green, int blue);
     };
 
     class MinHeap {

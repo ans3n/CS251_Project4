@@ -34,6 +34,23 @@ std::vector<int> color_walk::dijkstras(graph& g, const handle startHandle) {
     return dist;
 }
 
+std::pair<char, int> color_walk::shortestWalk(int redDistance, int greenDistance, int blueDistance) {
+    char col = 'R';
+    int smallest = redDistance;
+
+    if (greenDistance < smallest) {
+        smallest = greenDistance;
+        col = 'G';
+    }
+
+    if (blueDistance < smallest) {
+        smallest = blueDistance;
+        col = 'B';
+    }
+
+    return std::make_pair( col, smallest);
+}
+
 std::vector<std::pair<char, int>> color_walk::calculate(graph& g, const handle startHandle) {
     graph coloredGraph;
     coloredGraph.setNumVertices(g.getNumEdges());   //assuming all directed graphs
@@ -58,7 +75,28 @@ std::vector<std::pair<char, int>> color_walk::calculate(graph& g, const handle s
     std::pair<char, int> smallestGreen;
     std::pair<char, int> smallestBlue;
     std::pair<char, int> smallest;
-    output[startHandle] = std::make_pair('-', 0);
+    output[startHandle] = std::make_pair('-', 0);   //initialize and shove in start vertex
 
+    for (auto vertex : g.getVertices()) {
+        if (vertex.m_handle != startHandle) {
+            smallestRed = shortestWalk(redDistance[vertex.m_handle * 3], greenDistance[vertex.m_handle * 3], blueDistance[vertex.m_handle * 3]);
+            smallestGreen = shortestWalk(redDistance[vertex.m_handle * 3 + 1], greenDistance[vertex.m_handle * 3 + 1], blueDistance[vertex.m_handle * 3 + 1]);
+            smallestBlue = shortestWalk(redDistance[vertex.m_handle * 3], greenDistance[vertex.m_handle * 3 + 2], blueDistance[vertex.m_handle * 3 + 2]);
+
+            smallest = smallestRed;
+            //use strictly less than - if distances are the same, choose earlier color
+            if (smallestGreen.second < smallest.second) {
+                smallest = smallestGreen;
+            }
+            if (smallestBlue.second < smallest.second) {
+                smallest = smallestBlue;
+            }
+            //unreachable node
+            if (smallest.second == INT_MAX) {
+                smallest = std::make_pair('-', -1);
+            }
+            output[vertex.m_handle] = smallest;
+        }
+    }
     return output;
 }
