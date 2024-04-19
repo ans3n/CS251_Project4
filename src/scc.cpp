@@ -4,16 +4,15 @@
 using namespace cs251;
 
 int scc::search(graph& g) {
-    Tarjans t;
-    int countSCC = 0;
+    scc t(g.getNumVertices());
 
     for (auto vertex : g.getVertices()) {
-        if (!t.existsIndexMap(vertex.m_handle)) {
-            t.initializeOnStack(g);
-            countSCC += t.strongConnect(g, vertex.m_handle);
+        if (t.indexMap[vertex.m_handle] == -1) {
+            //t.initializeOnStack(g);
+            t.strongConnect(g, vertex.m_handle);
         }
     }
-    return countSCC;
+    return t.countSCC;
 }
 
 
