@@ -2,6 +2,7 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
+#include <climits>
 
 namespace cs251
 {
@@ -46,10 +47,20 @@ namespace cs251
 
         void setNumVertices(int count) {
             numVertices = count;
+            m_vertices.resize(numVertices);
         }
 
         void setNumEdges(int count) {
             numEdges = count;
+        }
+
+        void setHandle(handle target, handle newHandle) {
+            for (auto vertex : m_vertices) {
+                if (vertex.m_handle == target) {
+                    vertex.m_handle = newHandle;
+                    break;
+                }
+            }
         }
 
         void initializeAdjacencyList() {
@@ -63,8 +74,20 @@ namespace cs251
             return m_vertices;
         }
 
-        void push(graph_edge edge, int colorCount) {
-            m_vertices[edge.m_sourceHandle * 3 + colorCount].m_edges.push_back({edge.m_weight, edge.m_sourceHandle, edge.m_destinationHandle, edge.col});
+        graph_vertex getVertex(handle target) {
+            return m_vertices[target];
+        }
+
+        void push(graph_edge edge) {
+            if (edge.col == RED) {
+                m_vertices[edge.m_sourceHandle * 3].m_edges.push_back({edge.m_weight, edge.m_sourceHandle * 3, edge.m_destinationHandle * 3 + 1, RED});
+            } else if (edge.col == GREEN) {
+                m_vertices[edge.m_sourceHandle * 3 + 1].m_edges.push_back({edge.m_weight, edge.m_sourceHandle * 3 + 1, edge.m_destinationHandle * 3 + 2, GREEN});
+            } else if (edge.col == BLUE){
+                m_vertices[edge.m_sourceHandle * 3 + 2].m_edges.push_back({edge.m_weight, edge.m_sourceHandle * 3 + 2, edge.m_destinationHandle * 3, BLUE});
+            } else {
+
+            }
         }
     };
 }

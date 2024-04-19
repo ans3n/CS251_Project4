@@ -10,12 +10,34 @@ namespace cs251 {
         static std::vector<int> dijkstras(graph& g, const handle startHandle);
         graph splitColors(graph &g);
         static std::pair<char, int> shortestWalk(int red, int green, int blue);
+        static handle minHandle(handle u, handle v, handle w) {
+            handle smallest = u;
+
+            if (v < smallest) {
+                smallest = v;
+            }
+            if (w < smallest) {
+                smallest = w;
+            }
+            return smallest;
+        }
+
     };
 
     class MinHeap {
-        std::vector<graph_vertex> heap{};
+        struct heapNode {
+            int m_handle;
+            int m_distance;
+        };
+
+    private:
+        std::vector<heapNode> heap{};
 
     public:
+        bool unreachable() {
+            return heap[0].m_distance == INT_MAX;
+        }
+
         void heapifyUp(int current) {
             while (current > 0) {
                 int parent = (current - 1) / 2;
@@ -54,12 +76,16 @@ namespace cs251 {
             }
         }
 
-        void insert(graph_vertex& vertex) {
-            heap.push_back(vertex);
+        void insert(int handle, int weight) {
+            heapNode node;
+            node.m_distance = weight;
+            node.m_handle = handle;
+
+            heap.push_back(node);
             heapifyUp(heap.size() - 1);   //still?
         }
 
-        graph_vertex getMin() {
+        heapNode getMin() {
             /*for (int i = 0; i < heap.size(); i++) {
                 printf("%d %d %d\n", heap[i].m_sourceHandle, heap[i].m_destinationHandle, heap[i].m_distance);
             }*/
@@ -68,7 +94,7 @@ namespace cs251 {
                 throw std::runtime_error("Heap is empty");
             }*/
 
-            graph_vertex minDistance = heap.at(0); //to change?
+            heapNode minDistance = heap.at(0);
             heap[0] = heap[heap.size() - 1];
             heap.pop_back();
             heapifyDown(0);   //change to reverse?
