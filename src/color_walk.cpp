@@ -10,24 +10,19 @@ std::vector<int> color_walk::dijkstras(graph& g, const handle startHandle) {
     std::vector<int> dist(numVertices);
     std::vector<int> prev(numVertices);
     MinHeap heap;
-    printf("\ninitialize done");
 
     dist[startHandle] = 0;
     std::vector<graph_vertex> vertices = g.getVertices();
-    printf("\npre for loop");
     for (int i = 0; i < vertices.size(); i++) {
         if (i != startHandle) {
             dist[i] = INT_MAX;
         }
         prev[i] = -1;
-        printf("\npre insert");
         heap.insert(i, dist[i]);
     }
-    printf("\nfor loop done");
 
     while (!heap.is_empty() && !heap.unreachable()) {
         auto u = heap.getMin();
-        printf("get min done");
 
         for (graph_edge edge : g.getVertex(u.m_handle).m_edges) {
             handle destination = edge.m_destinationHandle;
@@ -83,13 +78,11 @@ std::vector<std::pair<char, int>> color_walk::calculate(graph& g, const handle s
             }
         }
     }
-    printf("split done");
 
     //calculation part
     std::vector<int> redDistance = dijkstras(coloredGraph, startHandle * 3);
     std::vector<int> greenDistance = dijkstras(coloredGraph, startHandle * 3 + 1);
     std::vector<int> blueDistance = dijkstras(coloredGraph, startHandle * 3 + 2);
-    printf("dijkstra done");
 
     /*printf("From Red: ");
     for (int i = 0 ; i < redDistance.size(); i+=3) {
@@ -115,7 +108,6 @@ std::vector<std::pair<char, int>> color_walk::calculate(graph& g, const handle s
     output[startHandle] = std::make_pair('-', 0);   //initialize and shove in start vertex
     std::vector<graph_vertex> vertices = g.getVertices();
 
-    printf("pre for loop");
     for (int i = 0; i < vertices.size(); i++) {
         if (i != startHandle) {
             smallestRed = minHandle(redDistance[i * 3], redDistance[i * 3 + 1], redDistance[i * 3 + 2]);

@@ -39,18 +39,14 @@ namespace cs251 {
          }
 
         void heapifyUp(int current) {
-            printf(" enter heapfiy");
             while (current > 0) {
                 int parent = (current - 1) / 2;
-                printf(" heapify pre if statement");
                 if (heap[current].m_distance < heap[parent].m_distance) {
                     //minheap: swap if the current node has a smaller value than its parent
-                    printf(" entering if");
                     std::swap(heap[current], heap[parent]);
                     current = parent;
                 } else {
                     // already in position
-                    printf("breaking");
                     break;
                 }
             }
@@ -84,11 +80,8 @@ namespace cs251 {
             heapNode node;
             node.m_distance = weight;
             node.m_handle = handle;
-            printf("node: %d, %d\n", handle, weight);
 
-            printf(" pre push back");
             heap.push_back(node);
-            printf(" pre heapify");
             heapifyUp(heap.size() - 1);   //still?
         }
 
