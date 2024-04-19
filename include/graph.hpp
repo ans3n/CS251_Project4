@@ -54,13 +54,8 @@ namespace cs251
             numEdges = count;
         }
 
-        void setHandle(handle target, handle newHandle) {
-            for (auto vertex : m_vertices) {
-                if (vertex.m_handle == target) {
-                    vertex.m_handle = newHandle;
-                    break;
-                }
-            }
+        void coloredHandle(int i, int newHandle) {
+            m_vertices[i].m_handle = newHandle;
         }
 
         void initializeAdjacencyList() {

@@ -6,33 +6,33 @@
 using namespace cs251;
 
 std::vector<int> color_walk::dijkstras(graph& g, const handle startHandle) {
-    int numVertices = g.getNumVertices();
+    std::vector<graph_vertex> vertices = g.getVertices();
+    int numVertices = vertices.size();
     std::vector<int> dist(numVertices);
-    std::vector<int> prev(numVertices);
+    //std::vector<int> prev(numVertices);
     MinHeap heap;
 
     dist[startHandle] = 0;
-    std::vector<graph_vertex> vertices = g.getVertices();
     for (int i = 0; i < vertices.size(); i++) {
         if (i != startHandle) {
             dist[i] = INT_MAX;
         }
-        prev[i] = -1;
+        //prev[i] = -1;
         heap.insert(i, dist[i]);
     }
 
     while (!heap.is_empty() && !heap.unreachable()) {
-        auto u = heap.getMin();
+        heapNode u = heap.getMin();
 
         for (graph_edge edge : g.getVertex(u.m_handle).m_edges) {
             handle destination = edge.m_destinationHandle;
 
             if (heap.exists(destination)) {
                 int d = dist[u.m_handle] + edge.m_weight;
-                if (d < dist[destination]) {
+                if (d < dist[destination]) {                                             //check this vs. unreachable()
                     dist[destination] = d;
-                    prev[destination] = u.m_handle;
-                    heap.set(d, destination);  //not possible to have multiple?
+                    //prev[destination] = u.m_handle;
+                    heap.set(d, destination);
                 }
             }
         }
@@ -65,17 +65,14 @@ std::vector<std::pair<char, int>> color_walk::calculate(graph& g, const handle s
     //split graph
     graph coloredGraph;
     coloredGraph.newGraph(g.getNumVertices() * 3, g.getNumEdges());
-    //coloredGraph.initializeAdjacencyList(); //check if needed
 
     for (auto vertex : g.getVertices()) {
         //number colored graph's vertices
         for (int i = 0; i < 3; i++) {
-            coloredGraph.setHandle(3 * vertex.m_handle + i, vertex.m_handle);
+            coloredGraph.coloredHandle(3 * vertex.m_handle + i, vertex.m_handle);
         }
         for (graph_edge edge : vertex.m_edges) {
-            if (edge.col != NONE) {
-                coloredGraph.push(edge);
-            }
+            coloredGraph.push(edge);
         }
     }
 

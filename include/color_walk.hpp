@@ -3,6 +3,10 @@
 #include "graph.hpp"
 
 namespace cs251 {
+    struct heapNode {
+        int m_handle;
+        int m_distance;
+    };
 
     class color_walk {
     public:
@@ -25,10 +29,7 @@ namespace cs251 {
     };
 
     class MinHeap {
-        struct heapNode {
-            int m_handle;
-            int m_distance;
-        };
+
 
     private:
         std::vector<heapNode> heap{};
@@ -36,7 +37,7 @@ namespace cs251 {
     public:
         bool unreachable() {
             return heap[0].m_distance == INT_MAX;
-         }
+        }
 
         void heapifyUp(int current) {
             while (current > 0) {
@@ -106,8 +107,8 @@ namespace cs251 {
         }
 
         bool exists(handle h) {
-            for (auto vertex : heap) {
-                if (vertex.m_handle == h) {
+            for (int i = 0; i < heap.size(); i++) {
+                if (heap[i].m_handle == h) {
                     return true;
                 }
             }
@@ -115,9 +116,11 @@ namespace cs251 {
         }
 
         void set(int distance, handle h) {
-            for (auto vertex: heap) {
-                if (vertex.m_handle == h) {
-                    vertex.m_distance = distance;
+            for (int i = 0; i < heap.size(); i++) {
+                //printf("%d %d\n", heap[i].m_handle, heap[i].m_distance);
+                if (heap[i].m_handle == h) {
+                    heap[i].m_distance = distance;
+                    heapifyUp(i);
                     break;
                 }
             }

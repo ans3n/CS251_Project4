@@ -1,0 +1,111 @@
+G' Source Vertex: 0R
+
+G' Source Vertex: 0G
+
+G' Source Vertex: 0B
+
+G' Source Vertex: 1R
+
+G' Source Vertex: 1G
+
+G' Source Vertex: 1B
+
+G' Source Vertex: 2R
+
+G' Source Vertex: 2G
+
+G' Source Vertex: 2B
+
+G' Source Vertex: 3R
+
+G' Source Vertex: 3G
+
+G' Source Vertex: 3B
+
+G' Source Vertex: 4R
+
+G' Source Vertex: 4G
+
+G' Source Vertex: 4B
+
+G' Source Vertex: 5R
+
+G' Source Vertex: 5G
+
+G' Source Vertex: 5B
+
+G' Source Vertex: 6R
+
+G' Source Vertex: 6G
+
+G' Source Vertex: 6B
+
+G' Source Vertex: 7R
+
+G' Source Vertex: 7G
+
+G' Source Vertex: 7B
+
+Checking Vertex 0 (0R):
+  -> Edge to 13 (4G) with weight 26
+Checking Vertex 1 (0G):
+  -> Edge to 8 (2B) with weight 2
+  -> Edge to 8 (2B) with weight 34
+  -> Edge to 11 (3B) with weight 22
+Checking Vertex 2 (0B):
+  -> Edge to 15 (5R) with weight 43
+Checking Vertex 3 (1R):
+  -> Edge to 1 (0G) with weight 36
+  -> Edge to 19 (6G) with weight 11
+Checking Vertex 4 (1G):
+  -> Edge to 17 (5B) with weight 43
+  -> Edge to 23 (7B) with weight 41
+Checking Vertex 5 (1B):
+  -> Edge to 6 (2R) with weight 45
+  -> Edge to 9 (3R) with weight 31
+  -> Edge to 9 (3R) with weight 6
+  -> Edge to 12 (4R) with weight 5
+  -> Edge to 21 (7R) with weight 7
+Checking Vertex 6 (2R):
+Checking Vertex 7 (2G):
+  -> Edge to 2 (0B) with weight 31
+  -> Edge to 14 (4B) with weight 29
+Checking Vertex 8 (2B):
+  -> Edge to 9 (3R) with weight 41
+  -> Edge to 9 (3R) with weight 14
+  -> Edge to 12 (4R) with weight 14
+  -> Edge to 21 (7R) with weight 40
+  -> Edge to 21 (7R) with weight 2
+Checking Vertex 9 (3R):
+  -> Edge to 22 (7G) with weight 36
+Checking Vertex 10 (3G):
+Checking Vertex 11 (3B):
+  -> Edge to 15 (5R) with weight 28
+Checking Vertex 12 (4R):
+  -> Edge to 16 (5G) with weight 21
+Checking Vertex 13 (4G):
+  -> Edge to 17 (5B) with weight 38
+  -> Edge to 20 (6B) with weight 23
+Checking Vertex 14 (4B):
+Checking Vertex 15 (5R):
+  -> Edge to 13 (4G) with weight 38
+Checking Vertex 16 (5G):
+  -> Edge to 20 (6B) with weight 46
+  -> Edge to 20 (6B) with weight 31
+Checking Vertex 17 (5B):
+  -> Edge to 9 (3R) with weight 43
+Checking Vertex 18 (6R):
+  -> Edge to 4 (1G) with weight 12
+Checking Vertex 19 (6G):
+  -> Edge to 14 (4B) with weight 32
+Checking Vertex 20 (6B):
+  -> Edge to 0 (0R) with weight 44
+  -> Edge to 9 (3R) with weight 32
+  -> Edge to 15 (5R) with weight 40
+Checking Vertex 21 (7R):
+  -> Edge to 1 (0G) with weight 35
+  -> Edge to 10 (3G) with weight 33
+Checking Vertex 22 (7G):
+Checking Vertex 23 (7B):
+  -> Edge to 12 (4R) with weight 26
+3 - -1 - -1 - -1 - 0 - -1 B 28 - -1 R 36 
