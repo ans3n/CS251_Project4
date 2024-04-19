@@ -55,12 +55,12 @@ int main(int argc, char** argv) {
 		graph g;
 		g.read_edge_colors(argv[2]);
 		auto colorwalk = color_walk::calculate(g, start_idx);
-
-		std::cout << start_idx << " ";
+        std::cout << start_idx << " ";
 		for (auto p : colorwalk) {
 			std::cout << p.first << " " << p.second << " ";
 		}
-		std::cout << std::endl;
+
+        std::cout << std::endl;
 	}
 
 	else if (part == 3) {

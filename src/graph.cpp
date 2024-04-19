@@ -11,16 +11,16 @@ void graph::read_edge_weights(const std::string& filePath) {
         return;
     }
 
-    int numEdges = 0;
-    int numVertices = 0;
+    int e = 0;
+    int v = 0;
     int source = 0;
     int destination = 0;
     int weight = 0;
 
-    file >> numVertices >> numEdges;
+    file >> v >> e;
     m_vertices.resize(numVertices);
-    setNumEdges(numEdges);
-    setNumVertices(numVertices);
+    numEdges = e;
+    numVertices = v;
 
     for (int i = 0; i < numVertices; i++) {
         m_vertices.push_back({ {}, i});
@@ -42,17 +42,17 @@ void graph::read_edge_colors(const std::string& filePath) {
         return;
     }
 
-    int numEdges = 0;
-    int numVertices = 0;
+    int v = 0;
+    int e = 0;
     int source = 0;
     int destination = 0;
     int weight = 0;
     char color = 0;
 
-    file >> numVertices >> numEdges;    //reads the first two integers and stores
+    file >> v >> e;    //reads the first two integers and stores
     m_vertices.resize(numVertices);
-    setNumEdges(numEdges);
-    setNumVertices(numVertices);
+    numEdges = e;
+    numVertices = v;
 
     for (int i = 0; i < numVertices; i++) {
         m_vertices.push_back({ {}, i});

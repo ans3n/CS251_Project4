@@ -67,6 +67,8 @@ std::vector<std::pair<char, int>> color_walk::calculate(graph& g, const handle s
     coloredGraph.newGraph(g.getNumVertices() * 3, g.getNumEdges());
     //coloredGraph.initializeAdjacencyList(); //check if needed
 
+    printf("done initialize\n");
+
     for (auto vertex : g.getVertices()) {
         //number colored graph's vertices
         for (int i = 0; i < 3; i++) {
@@ -78,11 +80,13 @@ std::vector<std::pair<char, int>> color_walk::calculate(graph& g, const handle s
             }
         }
     }
+    printf("done for loop iniitalize\n");
 
     //calculation part
     std::vector<int> redDistance = dijkstras(coloredGraph, startHandle * 3);
     std::vector<int> greenDistance = dijkstras(coloredGraph, startHandle * 3 + 1);
     std::vector<int> blueDistance = dijkstras(coloredGraph, startHandle * 3 + 2);
+    printf("done dijsktra\n");
 
     /*printf("From Red: ");
     for (int i = 0 ; i < redDistance.size(); i+=3) {
@@ -107,13 +111,14 @@ std::vector<std::pair<char, int>> color_walk::calculate(graph& g, const handle s
     std::vector<std::pair<char, int>> output(g.getNumVertices());
     output[startHandle] = std::make_pair('-', 0);   //initialize and shove in start vertex
     std::vector<graph_vertex> vertices = g.getVertices();
+    printf("pre for loop\n");
 
     for (int i = 0; i < vertices.size(); i++) {
         if (i != startHandle) {
             smallestRed = minHandle(redDistance[i * 3], redDistance[i * 3 + 1], redDistance[i * 3 + 2]);
             smallestGreen = minHandle(greenDistance[i * 3], greenDistance[i * 3 + 1], greenDistance[i * 3 + 2]);
             smallestBlue = minHandle(blueDistance[i * 3], blueDistance[i * 3 + 1], blueDistance[i * 3 + 2]);
-
+            printf("min handle done\n");
             /*smallest = smallestRed;
             //use strictly less than - if distances are the same, choose earlier color
             if (small) {
@@ -127,8 +132,10 @@ std::vector<std::pair<char, int>> color_walk::calculate(graph& g, const handle s
                 smallest = std::make_pair('-', -1);
             }*/
             smallest = shortestWalk(smallestRed, smallestGreen, smallestBlue);
+            printf("done shortest walk\n");
             output[i] = smallest;
         }
     }
+    printf("finished for loop\n");
     return output;
 }
