@@ -14,6 +14,7 @@ namespace cs251 {
         static std::vector<int> dijkstras(graph& g, const handle startHandle);
         graph splitColors(graph &g);
         static std::pair<char, int> shortestWalk(int red, int green, int blue);
+
         static handle minHandle(handle u, handle v, handle w) {
             handle smallest = u;
 
@@ -93,7 +94,7 @@ namespace cs251 {
             return minDistance;
         }
 
-        bool is_empty() {
+        bool empty() {
             return !heap.size();
         }
 

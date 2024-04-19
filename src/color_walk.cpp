@@ -9,6 +9,7 @@ std::vector<int> color_walk::dijkstras(graph& g, const handle startHandle) {
     std::vector<graph_vertex> vertices = g.getVertices();
     int numVertices = vertices.size();
     std::vector<int> dist(numVertices);
+    //prev not needed in this case
     //std::vector<int> prev(numVertices);
     MinHeap heap;
 
@@ -21,7 +22,7 @@ std::vector<int> color_walk::dijkstras(graph& g, const handle startHandle) {
         heap.insert(i, dist[i]);
     }
 
-    while (!heap.is_empty() && !heap.unreachable()) {
+    while (!heap.empty() && !heap.unreachable()) {
         heapNode u = heap.getMin();
 
         for (graph_edge edge : g.getVertex(u.m_handle).m_edges) {
@@ -42,6 +43,7 @@ std::vector<int> color_walk::dijkstras(graph& g, const handle startHandle) {
 }
 
 std::pair<char, int> color_walk::shortestWalk(int redDistance, int greenDistance, int blueDistance) {
+    std::pair<char, int> shortest;
     char col = 'R';
     int smallest = redDistance;
 
@@ -55,15 +57,17 @@ std::pair<char, int> color_walk::shortestWalk(int redDistance, int greenDistance
         col = 'B';
     }
     if (smallest == INT_MAX) {
-        return std::make_pair('-', -1);
+        shortest = std::make_pair('-', -1);
+    } else {
+        shortest = std::make_pair( col, smallest);
     }
 
-    return std::make_pair( col, smallest);
+    return shortest;
 }
 
 std::vector<std::pair<char, int>> color_walk::calculate(graph& g, const handle startHandle) {
-    //split graph
     graph coloredGraph;
+    //assume every vertex has 3 colors and then determine if they actually exist
     coloredGraph.newGraph(g.getNumVertices() * 3, g.getNumEdges());
 
     for (auto vertex : g.getVertices()) {
@@ -76,7 +80,6 @@ std::vector<std::pair<char, int>> color_walk::calculate(graph& g, const handle s
         }
     }
 
-    //calculation part
     std::vector<int> redDistance = dijkstras(coloredGraph, startHandle * 3);
     std::vector<int> greenDistance = dijkstras(coloredGraph, startHandle * 3 + 1);
     std::vector<int> blueDistance = dijkstras(coloredGraph, startHandle * 3 + 2);
@@ -85,17 +88,24 @@ std::vector<std::pair<char, int>> color_walk::calculate(graph& g, const handle s
     int smallestGreen = 0;
     int smallestBlue = 0;
     std::pair<char, int> smallest;
+
     std::vector<std::pair<char, int>> output(g.getNumVertices());
     output[startHandle] = std::make_pair('-', 0);   //initialize and shove in start vertex
-    std::vector<graph_vertex> vertices = g.getVertices();
 
+    std::vector<graph_vertex> vertices = g.getVertices();
     for (int i = 0; i < vertices.size(); i++) {
+        //check to ensure not going start to start vertex
         if (i != startHandle) {
+            //get red shortest to other colors
             smallestRed = minHandle(redDistance[i * 3], redDistance[i * 3 + 1], redDistance[i * 3 + 2]);
+            //get green shortest to other colors
             smallestGreen = minHandle(greenDistance[i * 3], greenDistance[i * 3 + 1], greenDistance[i * 3 + 2]);
+            //get blue shortest to other colors
             smallestBlue = minHandle(blueDistance[i * 3], blueDistance[i * 3 + 1], blueDistance[i * 3 + 2]);
 
+            //get smallest among everything
             smallest = shortestWalk(smallestRed, smallestGreen, smallestBlue);
+            //shove into output
             output[i] = smallest;
         }
     }
