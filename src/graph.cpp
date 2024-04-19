@@ -91,25 +91,5 @@ void graph::read_edge_colors(const std::string& filePath) {
         m_vertices[source].m_edges.push_back({weight, source, destination, col});
     }
 
-    /*
-    printf("%d %d\n", numVertices, numEdges);
-    for (int i = 0; i < numVertices; i++) {
-        for (int j = 0; j < m_vertices[i].m_edges.size(); j++) {
-            enum color col = m_vertices[i].m_edges[j].col;
-            char c;
-
-            if (col == RED) {
-                c = 'R';
-            } else if (col == BLUE) {
-                c = 'B';
-            } else if (col == GREEN) {
-                c = 'G';
-            } else {
-                c = '-';
-            }
-            printf("%d %d %d %c\n", i, m_vertices[i].m_edges[j].m_destinationHandle, m_vertices[i].m_edges[j].m_weight, c);
-        }
-    }
-     */
     file.close();
 }

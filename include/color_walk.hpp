@@ -10,7 +10,7 @@ namespace cs251 {
 
     class color_walk {
     public:
-        static std::vector<std::pair<char, int>> calculate(graph& g, handle startHandle);  //static
+        static std::vector<std::pair<char, int>> calculate(graph& g, handle startHandle);
         static std::vector<int> dijkstras(graph& g, const handle startHandle);
         graph splitColors(graph &g);
         static std::pair<char, int> shortestWalk(int red, int green, int blue);
@@ -29,7 +29,6 @@ namespace cs251 {
     };
 
     class MinHeap {
-
 
     private:
         std::vector<heapNode> heap{};
@@ -61,10 +60,10 @@ namespace cs251 {
                 int leftIndex = 2 * current + 1;
                 int rightIndex = 2 * current + 2;
 
-                if (leftIndex < heap.size() && heap[leftIndex].m_distance < heap[smallestIndex].m_distance) {    //changed to <
+                if (leftIndex < heap.size() && heap[leftIndex].m_distance < heap[smallestIndex].m_distance) {
                     smallestIndex = leftIndex;
                 }
-                if (rightIndex < heap.size() && heap[rightIndex].m_distance < heap[smallestIndex].m_distance) {  //changed to <
+                if (rightIndex < heap.size() && heap[rightIndex].m_distance < heap[smallestIndex].m_distance) {
                     smallestIndex = rightIndex;
                 }
                 if (smallestIndex != current) {
@@ -83,22 +82,14 @@ namespace cs251 {
             node.m_handle = handle;
 
             heap.push_back(node);
-            heapifyUp(heap.size() - 1);   //still?
+            heapifyUp(heap.size() - 1);
         }
 
         heapNode getMin() {
-            /*for (int i = 0; i < heap.size(); i++) {
-                printf("%d %d %d\n", heap[i].m_sourceHandle, heap[i].m_destinationHandle, heap[i].m_distance);
-            }*/
-            /*if (heap.empty()) {
-                // Handle case where heap is empty
-                throw std::runtime_error("Heap is empty");
-            }*/
-
             heapNode minDistance = heap.at(0);
             heap[0] = heap[heap.size() - 1];
             heap.pop_back();
-            heapifyDown(0);   //change to reverse?
+            heapifyDown(0);
             return minDistance;
         }
 
@@ -117,7 +108,6 @@ namespace cs251 {
 
         void set(int distance, handle h) {
             for (int i = 0; i < heap.size(); i++) {
-                //printf("%d %d\n", heap[i].m_handle, heap[i].m_distance);
                 if (heap[i].m_handle == h) {
                     heap[i].m_distance = distance;
                     heapifyUp(i);

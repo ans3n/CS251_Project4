@@ -47,7 +47,6 @@ namespace cs251
 
         void setNumVertices(int count) {
             numVertices = count;
-            //m_vertices.resize(numVertices);
         }
 
         void setNumEdges(int count) {
@@ -58,17 +57,10 @@ namespace cs251
             m_vertices[i].m_handle = newHandle;
         }
 
-        void initializeAdjacencyList() {
-            m_vertices.resize(numVertices);
-            for (int i = 0; i < numVertices; i++) {
-                m_vertices.push_back({ {}, i});
-            }
-        }
-
-        void newGraph(int n, int e) {
-            m_vertices.resize((n));
-            numVertices = n;
-            numEdges = e;
+        void newGraph(int countVertices, int countEdges) {
+            m_vertices.resize((countVertices));
+            numVertices = countVertices;
+            numEdges = countEdges;
         }
 
         std::vector<graph_vertex> getVertices() {
