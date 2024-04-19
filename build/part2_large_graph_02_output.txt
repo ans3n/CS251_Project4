@@ -1,0 +1,2062 @@
+split done
+initialize done
+pre for loop
+pre insertnode: 0, 2147483647
+ pre push back pre heapify enter heapfiy
+pre insertnode: 1, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 2, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 3, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 4, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 5, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 6, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 7, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 8, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 9, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 10, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 11, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 12, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 13, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 14, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 15, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 16, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 17, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 18, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 19, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 20, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 21, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 22, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 23, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 24, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 25, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 26, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 27, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 28, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 29, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 30, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 31, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 32, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 33, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 34, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 35, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 36, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 37, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 38, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 39, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 40, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 41, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 42, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 43, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 44, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 45, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 46, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 47, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 48, 0
+ pre push back pre heapify enter heapfiy heapify pre if statement entering if heapify pre if statement entering if heapify pre if statement entering if heapify pre if statement entering if heapify pre if statement entering if
+pre insertnode: 49, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 50, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 51, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 52, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 53, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 54, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 55, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 56, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 57, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 58, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 59, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 60, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 61, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 62, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 63, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 64, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 65, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 66, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 67, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 68, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 69, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 70, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 71, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 72, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 73, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 74, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 75, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 76, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 77, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 78, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 79, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 80, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 81, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 82, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 83, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 84, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 85, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 86, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 87, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 88, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 89, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 90, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 91, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 92, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 93, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 94, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 95, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 96, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 97, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 98, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 99, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 100, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 101, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 102, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 103, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 104, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 105, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 106, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 107, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 108, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 109, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 110, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 111, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 112, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 113, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 114, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 115, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 116, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 117, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 118, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 119, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 120, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 121, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 122, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 123, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 124, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 125, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 126, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 127, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 128, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 129, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 130, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 131, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 132, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 133, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 134, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 135, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 136, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 137, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 138, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 139, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 140, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 141, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 142, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 143, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 144, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 145, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 146, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 147, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 148, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 149, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 150, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 151, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 152, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 153, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 154, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 155, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 156, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 157, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 158, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 159, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 160, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 161, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 162, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 163, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 164, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 165, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 166, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 167, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 168, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 169, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 170, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 171, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 172, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 173, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 174, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 175, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 176, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 177, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 178, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 179, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 180, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 181, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 182, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 183, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 184, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 185, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 186, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 187, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 188, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 189, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 190, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 191, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 192, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 193, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 194, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 195, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 196, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 197, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 198, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 199, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 200, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 201, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 202, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 203, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 204, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 205, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 206, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 207, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 208, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 209, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 210, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 211, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 212, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 213, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 214, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 215, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 216, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 217, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 218, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 219, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 220, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 221, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 222, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 223, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 224, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 225, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 226, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 227, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 228, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 229, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 230, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 231, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 232, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 233, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 234, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 235, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 236, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 237, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 238, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 239, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 240, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 241, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 242, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 243, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 244, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 245, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 246, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 247, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 248, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 249, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 250, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 251, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 252, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 253, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 254, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 255, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 256, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 257, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 258, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 259, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 260, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 261, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 262, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 263, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 264, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 265, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 266, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 267, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 268, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 269, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 270, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 271, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 272, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 273, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 274, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 275, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 276, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 277, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 278, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 279, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 280, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 281, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 282, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 283, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 284, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 285, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 286, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 287, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 288, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 289, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 290, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 291, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 292, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 293, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 294, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 295, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 296, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 297, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 298, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 299, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 300, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 301, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 302, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 303, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 304, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 305, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 306, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 307, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 308, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 309, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 310, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 311, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 312, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 313, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 314, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 315, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 316, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 317, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 318, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 319, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 320, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 321, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 322, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 323, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 324, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 325, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 326, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 327, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 328, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 329, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 330, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 331, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 332, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 333, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 334, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 335, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 336, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 337, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 338, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 339, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 340, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 341, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+for loop doneget min done
+initialize done
+pre for loop
+pre insertnode: 0, 2147483647
+ pre push back pre heapify enter heapfiy
+pre insertnode: 1, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 2, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 3, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 4, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 5, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 6, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 7, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 8, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 9, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 10, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 11, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 12, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 13, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 14, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 15, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 16, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 17, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 18, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 19, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 20, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 21, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 22, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 23, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 24, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 25, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 26, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 27, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 28, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 29, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 30, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 31, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 32, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 33, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 34, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 35, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 36, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 37, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 38, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 39, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 40, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 41, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 42, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 43, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 44, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 45, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 46, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 47, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 48, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 49, 0
+ pre push back pre heapify enter heapfiy heapify pre if statement entering if heapify pre if statement entering if heapify pre if statement entering if heapify pre if statement entering if heapify pre if statement entering if
+pre insertnode: 50, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 51, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 52, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 53, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 54, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 55, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 56, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 57, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 58, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 59, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 60, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 61, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 62, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 63, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 64, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 65, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 66, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 67, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 68, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 69, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 70, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 71, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 72, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 73, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 74, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 75, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 76, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 77, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 78, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 79, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 80, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 81, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 82, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 83, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 84, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 85, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 86, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 87, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 88, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 89, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 90, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 91, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 92, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 93, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 94, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 95, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 96, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 97, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 98, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 99, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 100, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 101, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 102, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 103, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 104, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 105, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 106, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 107, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 108, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 109, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 110, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 111, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 112, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 113, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 114, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 115, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 116, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 117, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 118, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 119, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 120, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 121, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 122, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 123, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 124, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 125, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 126, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 127, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 128, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 129, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 130, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 131, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 132, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 133, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 134, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 135, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 136, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 137, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 138, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 139, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 140, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 141, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 142, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 143, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 144, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 145, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 146, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 147, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 148, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 149, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 150, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 151, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 152, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 153, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 154, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 155, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 156, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 157, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 158, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 159, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 160, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 161, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 162, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 163, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 164, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 165, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 166, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 167, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 168, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 169, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 170, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 171, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 172, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 173, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 174, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 175, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 176, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 177, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 178, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 179, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 180, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 181, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 182, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 183, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 184, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 185, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 186, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 187, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 188, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 189, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 190, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 191, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 192, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 193, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 194, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 195, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 196, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 197, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 198, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 199, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 200, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 201, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 202, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 203, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 204, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 205, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 206, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 207, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 208, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 209, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 210, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 211, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 212, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 213, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 214, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 215, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 216, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 217, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 218, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 219, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 220, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 221, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 222, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 223, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 224, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 225, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 226, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 227, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 228, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 229, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 230, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 231, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 232, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 233, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 234, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 235, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 236, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 237, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 238, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 239, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 240, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 241, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 242, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 243, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 244, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 245, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 246, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 247, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 248, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 249, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 250, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 251, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 252, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 253, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 254, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 255, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 256, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 257, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 258, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 259, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 260, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 261, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 262, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 263, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 264, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 265, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 266, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 267, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 268, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 269, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 270, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 271, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 272, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 273, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 274, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 275, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 276, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 277, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 278, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 279, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 280, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 281, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 282, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 283, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 284, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 285, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 286, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 287, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 288, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 289, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 290, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 291, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 292, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 293, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 294, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 295, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 296, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 297, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 298, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 299, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 300, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 301, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 302, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 303, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 304, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 305, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 306, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 307, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 308, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 309, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 310, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 311, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 312, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 313, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 314, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 315, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 316, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 317, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 318, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 319, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 320, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 321, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 322, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 323, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 324, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 325, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 326, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 327, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 328, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 329, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 330, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 331, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 332, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 333, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 334, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 335, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 336, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 337, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 338, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 339, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 340, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 341, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+for loop doneget min done
+initialize done
+pre for loop
+pre insertnode: 0, 2147483647
+ pre push back pre heapify enter heapfiy
+pre insertnode: 1, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 2, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 3, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 4, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 5, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 6, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 7, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 8, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 9, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 10, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 11, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 12, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 13, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 14, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 15, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 16, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 17, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 18, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 19, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 20, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 21, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 22, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 23, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 24, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 25, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 26, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 27, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 28, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 29, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 30, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 31, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 32, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 33, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 34, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 35, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 36, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 37, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 38, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 39, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 40, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 41, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 42, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 43, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 44, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 45, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 46, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 47, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 48, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 49, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 50, 0
+ pre push back pre heapify enter heapfiy heapify pre if statement entering if heapify pre if statement entering if heapify pre if statement entering if heapify pre if statement entering if heapify pre if statement entering if
+pre insertnode: 51, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 52, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 53, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 54, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 55, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 56, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 57, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 58, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 59, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 60, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 61, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 62, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 63, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 64, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 65, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 66, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 67, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 68, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 69, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 70, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 71, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 72, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 73, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 74, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 75, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 76, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 77, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 78, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 79, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 80, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 81, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 82, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 83, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 84, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 85, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 86, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 87, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 88, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 89, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 90, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 91, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 92, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 93, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 94, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 95, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 96, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 97, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 98, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 99, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 100, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 101, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 102, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 103, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 104, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 105, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 106, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 107, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 108, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 109, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 110, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 111, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 112, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 113, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 114, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 115, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 116, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 117, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 118, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 119, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 120, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 121, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 122, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 123, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 124, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 125, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 126, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 127, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 128, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 129, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 130, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 131, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 132, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 133, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 134, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 135, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 136, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 137, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 138, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 139, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 140, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 141, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 142, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 143, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 144, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 145, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 146, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 147, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 148, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 149, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 150, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 151, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 152, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 153, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 154, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 155, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 156, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 157, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 158, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 159, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 160, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 161, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 162, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 163, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 164, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 165, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 166, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 167, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 168, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 169, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 170, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 171, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 172, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 173, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 174, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 175, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 176, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 177, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 178, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 179, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 180, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 181, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 182, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 183, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 184, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 185, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 186, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 187, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 188, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 189, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 190, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 191, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 192, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 193, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 194, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 195, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 196, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 197, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 198, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 199, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 200, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 201, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 202, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 203, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 204, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 205, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 206, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 207, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 208, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 209, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 210, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 211, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 212, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 213, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 214, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 215, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 216, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 217, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 218, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 219, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 220, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 221, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 222, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 223, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 224, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 225, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 226, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 227, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 228, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 229, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 230, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 231, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 232, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 233, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 234, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 235, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 236, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 237, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 238, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 239, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 240, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 241, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 242, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 243, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 244, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 245, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 246, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 247, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 248, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 249, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 250, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 251, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 252, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 253, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 254, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 255, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 256, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 257, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 258, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 259, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 260, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 261, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 262, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 263, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 264, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 265, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 266, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 267, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 268, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 269, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 270, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 271, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 272, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 273, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 274, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 275, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 276, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 277, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 278, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 279, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 280, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 281, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 282, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 283, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 284, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 285, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 286, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 287, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 288, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 289, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 290, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 291, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 292, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 293, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 294, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 295, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 296, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 297, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 298, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 299, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 300, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 301, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 302, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 303, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 304, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 305, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 306, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 307, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 308, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 309, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 310, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 311, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 312, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 313, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 314, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 315, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 316, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 317, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 318, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 319, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 320, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 321, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 322, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 323, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 324, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 325, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 326, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 327, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 328, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 329, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 330, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 331, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 332, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 333, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 334, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 335, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 336, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 337, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 338, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 339, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 340, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+pre insertnode: 341, 2147483647
+ pre push back pre heapify enter heapfiy heapify pre if statementbreaking
+for loop doneget min donedijkstra donepre for loop16 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 0 - -1 - -1 - -1 - -1 - -1 - -1 R 24 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 

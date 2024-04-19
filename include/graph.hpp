@@ -47,7 +47,7 @@ namespace cs251
 
         void setNumVertices(int count) {
             numVertices = count;
-            m_vertices.resize(numVertices);
+            //m_vertices.resize(numVertices);
         }
 
         void setNumEdges(int count) {
@@ -70,6 +70,12 @@ namespace cs251
             }
         }
 
+        void newGraph(int n, int e) {
+            m_vertices.resize((n));
+            numVertices = n;
+            numEdges = e;
+        }
+
         std::vector<graph_vertex> getVertices() {
             return m_vertices;
         }
@@ -85,8 +91,6 @@ namespace cs251
                 m_vertices[edge.m_sourceHandle * 3 + 1].m_edges.push_back({edge.m_weight, edge.m_sourceHandle * 3 + 1, edge.m_destinationHandle * 3 + 2, GREEN});
             } else if (edge.col == BLUE){
                 m_vertices[edge.m_sourceHandle * 3 + 2].m_edges.push_back({edge.m_weight, edge.m_sourceHandle * 3 + 2, edge.m_destinationHandle * 3, BLUE});
-            } else {
-
             }
         }
     };
