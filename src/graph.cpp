@@ -6,6 +6,11 @@
 using namespace cs251;
 
 void graph::read_edge_weights(const std::string& filePath) {
+    bool part3 = false;
+    if (filePath.find("part3") != std::string::npos) {
+        part3 = true;
+    }
+
     std::ifstream file(filePath);
     if (!file.is_open()) {
         return;
@@ -26,11 +31,20 @@ void graph::read_edge_weights(const std::string& filePath) {
         m_vertices.push_back({ {}, i});
     }
 
-    //use num edges in case of directed
-    for (int j = 0; j < numEdges; j++) {
-        file >> source >> destination >> weight;
-        file.ignore();  //ignore new line
-        m_vertices[source].m_edges.push_back({weight, source, destination, NONE});
+    if (!part3) {
+        //use num edges in case of directed
+        for (int j = 0; j < numEdges; j++) {
+            file >> source >> destination >> weight;
+            file.ignore();  //ignore new line
+            m_vertices[source].m_edges.push_back({weight, source, destination, NONE});
+        }
+    } else {
+        //part 3 no weights
+        for (int j = 0; j < numEdges; j++) {
+            file >> source >> destination;
+            file.ignore();  //ignore new line
+            m_vertices[source].m_edges.push_back({1, source, destination, NONE});
+        }
     }
 
     file.close();
