@@ -8,7 +8,6 @@ int scc::search(graph& g) {
 
     for (auto vertex : g.getVertices()) {
         if (t.indexMap[vertex.m_handle] == -1) {
-            //t.initializeOnStack(g);
             t.strongConnect(g, vertex.m_handle);
         }
     }
